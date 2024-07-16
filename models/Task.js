@@ -11,7 +11,7 @@ Task.init({
         autoIncrement: true
     },
     name: {
-        type: DataTypesj.STRING,
+        type: DataTypes.STRING,
         allowNull: false,
     },
     description: {
