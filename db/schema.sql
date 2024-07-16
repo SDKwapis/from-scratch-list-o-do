@@ -1,0 +1,3 @@
+DELETE DATABASE IF EXISTS list_o_do_db;
+
+CREATE DATABASE list_o_do_db;
